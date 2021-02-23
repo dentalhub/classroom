@@ -5,6 +5,8 @@ function Home(){
         <div>
             <h1>Home</h1>
             <Contador />
+            <Contador />
+
         </div>
         
     )
